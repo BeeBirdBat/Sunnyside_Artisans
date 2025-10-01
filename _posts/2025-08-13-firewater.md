@@ -4,7 +4,7 @@ title:  "The Water Fire Land Climate Link"
 date:   2025-8-13
 categories: jekyll update
 ---
-![image-title-here](/stream_fog1.jpg){:class="img-responsive"}
+![image-title-here](/assets/images/stream_fog1.jpg){:class="img-responsive"}
 
 “Water and water vapor influence in the most significant way the climate on Earth. Despite this
 fact, its role in the atmosphere is one of the least researched and rarely discussed questions.”    -Water for the Recovery of the Climate - A New Water Paradigm
@@ -56,7 +56,7 @@ The key to a healthy lower watershed is to prioritize rejuvenating the upper wat
 There are a variety of methods we can use in addition to those mentioned above:   one rock dams, Leaky wears, Zuni bowls,     swales, rain Gardens,    ponds,    Silt collection basins to mitigate erosion. 
 
 There are instances where it is desirable to clear areas in the forest from trees and underbrush.    It is important to create defensible space around habitable structures in rural areas.    Prescribed burning and cultural burns can also be beneficial in maintaining a healthy ecosystem by reducing fire load, improving fertility, and making room for beneficial plants to thrive.
-![image-title-here](/fire_mountain1.jpg){:class="img-responsive"}
+![image-title-here](/assets/images/fire_mountain1.jpg){:class="img-responsive"}
 Animals or lack of animals on the land also plays an important role.    Plants and animals have coevolved.    Where wild animals are no longer in abundance It may be desirable to use domestic animals to manage the land in an ecologically beneficial way.    Domestic animals such as goats, sheep, chickens, geese and pigs can assist us in reducing fire load and underbrush while improving fertility of soil as part of an ecological land management approach.    The slow burn of animal digestion is a great way to deal with much of this combustible material and get it back in the ground where it can benefit the soil microorganisms.    Ducks, geese and pigs are also good at helping to seal a leaking pond.    Designing Silvopasture concepts into the lay of the land can also be a way to preserve the ecology while helping to provide food and income where needed.    A combination of native plants and introduced food production plants can be beneficial.
 
 There is an endless amount of ecological services we can provide to a community and there is much to say and explore but this introduction will be a good starting place.
