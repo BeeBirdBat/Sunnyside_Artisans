@@ -62,7 +62,7 @@ Animals or lack of animals on the land also plays an important role.    Plan
 There is an endless amount of ecological services we can provide to a community and there is much to say and explore but this introduction will be a good starting place.
 
 Join the cause!    Sunnyside Artisans can provide ecological services to land owners in the local area.
-Get in touch by contacting Sunnyside Artisans@gmail.com
+Get in touch by contacting SunnysideArtisans@gmail.com
 
 Small sample of Inspiring references:
 
