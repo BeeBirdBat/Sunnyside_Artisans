@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![image-title-here](/beeart2.png){:class="img-responsive"}
+![Bee In Flower](/beeart2.png){:class="img-responsive"}
 
 ## Sunnyside Articans
 ### Cultivating Resilience and Livelihoods in Stewarding the Earth
