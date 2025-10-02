@@ -4,7 +4,7 @@ title:  "The Water Fire Land Climate Link"
 date:   2025-8-13
 categories: jekyll update
 ---
-![Foggy Stream](../assets/images/stream_fog1.jpg)
+![Foggy Stream](/assets/images/stream_fog1.jpg)
 
 “Water and water vapor influence in the most significant way the climate on Earth. Despite this
 fact, its role in the atmosphere is one of the least researched and rarely discussed questions.”    -Water for the Recovery of the Climate - A New Water Paradigm
