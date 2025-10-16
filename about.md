@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![Bee In Flower](/beeart2.png){:class="img-responsive"}
 
-## Sunnyside Articans
+## Sunnyside Artisans
 ### Cultivating Resilience and Livelihoods in Stewarding the Earth
 
 “What does the Earth ask of us?” - Robin Wall Kimmerer
