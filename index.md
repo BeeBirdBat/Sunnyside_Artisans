@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![Fog Island]({{ '/assets/images/fogisland1.png' | relative_url }})
