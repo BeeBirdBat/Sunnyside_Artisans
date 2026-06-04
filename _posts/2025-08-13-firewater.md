@@ -44,7 +44,7 @@ One method we’ll focus on in order to retain water is the improvement of soil 
 
 Our focus on promoting perennial polyculture to help provide our food needs fits nicely with improving the soil carbon sponge.    There is a synergy that takes place between focusing on these practices.    When we engage in good practices of perennial polyculture we improve soil fertility, soil hydration, soil carbon sequestration, cooling during peak summer months through evapotranspiration and shade, reduce soil erosion and increasing biodiversity.    All of these improvements have a positive feedback affect that improve each other even more through time if managed well.
 
-The polyculture of old growth forests can suppress the impact of fires and the impact of clear-cut logging and replanting with monoculture trees produces dry conditions in the forest and increases fire potential.
+The diversity of old growth forests can suppress the impact of fires and the impact of clear-cut logging and replanting with monoculture trees produces dry conditions in the forest and increases fire potential.
 
 “British Columbia has just 20 percent of old growth forests remaining. A beautiful intact watershed remains in Wet'suwet'en territory, and they are working to save it. Meanwhile, scientists are showing how intact forests reduce forest fires by keeping the land moist, absorbing floods, generating rain and preventing drought. "Thinning" forests is not the answer to reducing fire intensity, they say.”    “Scientists have shown that industrial logging can increase fire intensity in forests by drying out the land.” - Erica Gies
 
@@ -76,14 +76,16 @@ www.waterstories.com/
 
 www.waterholistic.com/wp-content/uploads/2024/04/white-paper-nwp_water_for_climate_healing_white_paper_web_2023_final.pdf
 
-bio4climate.org/speaker/michal-kravcik/?utm_source=rss&utm_medium=rss&utm_campaign=michal-kravcik
+bio4climate.org/speaker/michal-kravcik/
 
 www.harvestingrainwater.com/
 
 www.coolingtheclimate.earth/
+
 quiviracoalition.org/techguides/
 
 www.rehydratecalifornia.org/watch.html
+
 goatapellifoundation.org/about-us/
 
 calpba.org/

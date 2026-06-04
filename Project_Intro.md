@@ -4,7 +4,7 @@ title: Project Introduction
 ---
 ![image-title-here](/web2.jpg){:class="img-responsive"}
 
-We intend to embrace the ethos of “Small is Beautiful”- E.F Schumacher.    We will focus on technology that is appropriate for regional scale.    This will enable us to develop productive capacity that supports a high quality of life while responsibly managing our planet's resources collectively by a local presence.
+We intend to embrace the ethos of “Small is Beautiful”- E.F Schumacher.    We will focus on technology that is appropriate for regional scale.    This will enable us to develop productive capacity that supports a high quality of life while responsibly managing our living planet's resources collectively by a local presence.
 Our primary long-term objectives are to steward the earth, advance resilience and create livelihoods.    That said we need to start from where we are. There are numerous beneficial fascinating projects we can undertake along the way.    The cooperative structure will enable collaborative meaningful directed action to undertake these projects.
 Sunnyside Artisans approach our activities holistically, recognizing that natural systems are based on relationships, and we are an integral part of nature. Our projects collectively form a holistic systems approach, creating synergies that enrich the environments we inhabit and, consequently, ourselves. Fundamentally, it's about experimenting with and living within the limits that the Earth can provide. This requires a community to manage the multifaceted relationships arising from a holistic systems approach, mirroring nature-based interactions. There is no one silver bullet for the environmental problems we have created with the present systems we live by.
 A Sunnyside Artisans community must have a means of productive capacity to help sustain its members and maintain resilience. This is one core objective of the Construction Zone Fab Lab project.    The Fab Lab provides the initial support for a variety of the Sunnyside Artisans activities.    Much of the means to realize our objectives starts with fabrication activities.    
@@ -70,6 +70,6 @@ Mobile outdoor shower with grey water use -
 Dunbar communities by way of land trust -
 
 
-You can see the general theme of the projects.   If you are interested joining Sunnyside Artisans   and getting started on any one of these project or any project in line the Sunnyside Artisan objectives we welcome your energy.
+You can see the general theme of the projects.   If you are interested in joining Sunnyside Artisans   and getting started on any one of these project or any project in line with the Sunnyside Artisan objectives we welcome your energy.
 
 Contact us at SunnysideArtisans@gmail.com

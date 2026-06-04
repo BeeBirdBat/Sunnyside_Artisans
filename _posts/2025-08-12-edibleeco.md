@@ -48,7 +48,7 @@ We will explore a variety of food preparation methods that make use of reusable 
     4. Freeze drying
     5. Smoking
 
-We happen to live in an area that has much potential for getting fertility from the ocean.    There is kelp that can be collected.    There is remains of fish harvesting.    There is guano from a variety of sea birds that if give proper perch design could be a collection source for this guano.    Some of the projects we will do to support our food growing and restoration efforts will involve the following:
+We happen to live in an area that has much potential for getting fertility from the ocean.    There is kelp that can be collected.    There is remains of fish harvesting.    There is guano from a variety of sea birds that if given proper perch design could be a collection source for this guano.    Some of the projects we will do to support our food growing and restoration efforts will involve the following:
     6. Composting of food scraps and biomass.
     7. Vermiculture
     8. Biochar production
@@ -65,7 +65,7 @@ projectfoodforest.org/
 
 www.savannainstitute.org/crops/
 
-perennialagriculture.institute/
+www.echocommunity.org/
 
 regenerativeagriculturepodcast.com/
 
